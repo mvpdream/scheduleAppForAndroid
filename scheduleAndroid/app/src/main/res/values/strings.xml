@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">还没想好</string>
+    <string name="explain_text">
+        1、请勿删除文件名为\"\databackup\"\的文件夹及相关文件\n
+        2、为保证app数据持久性，切记允许获取文件读写权限（首次进入app会弹出，如果点了拒绝，请手动在手机设置中开启）\n
+        3、此app为离线应用，可以不联网进行使用
+    </string>
+</resources>
